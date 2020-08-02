@@ -5,6 +5,11 @@ body {
   height: 100%;
 }
 
+p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 .arxiv-vanity-wrapper {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
   font-weight: 300;
